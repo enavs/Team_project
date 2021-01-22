@@ -3,6 +3,123 @@
 
 /* Eddie's section */
 
+.login {
+    color: white;
+    background: lightgray;
+}
+
+.logo-image {
+    padding: 10px;
+}
+
+.top-portion {
+    padding: 10px;
+}
+  
+.gradient-style {
+    background: #923531;
+    background-image: linear-gradient(to bottom,#91413e,#6B2B28);
+}
+
+.white-background {
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.divider {
+    background-color: white;
+}
+
+.forest-border {
+    margin: auto;
+    border: double;
+    padding: 5px;
+}
+
+.image-text {
+    color: white;
+    position: absolute; 
+    bottom: 100px; 
+    left: 50px;  
+}
+
+.scroll-box-text {
+    overflow-y: scroll;
+    width: 250px;
+    height: 583px;
+    margin: 0 auto;
+  }
+
+.bottom-text {
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+
+
+.top-nav-borders {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+.nav-bar-top-text li a {
+    color: black;
+}
+
+.nav-bar-top-text {
+    color: black;
+    list-style: none;
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    margin-bottom: -1.4em;
+}
+.nav-bar-top-text:after {
+    color: black;
+    content: "";
+    display: inline-block;
+    width: 100%;
+}
+.nav-bar-top-text-justify {
+    color: black;
+    display: inline-block;
+}
+
+
+.bottom-divider {
+    background-color: black;
+}
+
+
+.list-bullet-removed {
+    list-style-type: none;
+}
+
+.leather-chair-border {
+    border: double;
+}
+
+
+.large-pic-border {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: double;
+    padding: 5px;
+}
+
+.text-in-image {
+    color: lightgray;
+    position: absolute; 
+    bottom: 25px; 
+    left: 50px;  
+}
 
 
 /* Josh's Section */
